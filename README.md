@@ -10,7 +10,7 @@
 
 ### 🌼 Control a Beautiful Animated Flower using Real-Time Hand Gestures
 
-A visually immersive interactive web experience where your **left-hand pinch controls flower bloom**, **right-hand pinch controls growth**, and **hand movement creates natural wind effects** using **MediaPipe Hand Tracking**.
+A visually immersive interactive web experience where your **left-hand pinch controls flower bloom**, **right-hand pinch controls growth of flower**, and **hand movement creates natural wind effects** using **MediaPipe Hand Tracking**.
 
 </div>
 
