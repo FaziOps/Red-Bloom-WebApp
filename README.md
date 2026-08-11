@@ -1,5 +1,6 @@
 # 🌸 Flower Bloom — Hand Gesture Controller
 
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript)
@@ -7,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-FF6F00?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ### 🌼 Control a Beautiful Animated Flower using Real-Time Hand Gestures
 
@@ -24,7 +26,7 @@ A visually immersive interactive web experience where your **left-hand pinch con
 - 🌱 Right-hand pinch controls flower growth
 - 🌬 Hand movement creates wind effects
 - 🎥 Live webcam interaction
-- 🎨 Beautiful glassmorphism UI
+- 🎨 Beautiful glassmorphism UI design
 - ⚡ Smooth canvas rendering
 - 📱 Responsive design
 - 🚀 Lightweight and fast
@@ -64,6 +66,7 @@ assets/demo.gif
 
 ---
 
+
 # 🎮 Controls
 
 | Gesture | Action |
@@ -73,6 +76,7 @@ assets/demo.gif
 | 👋 Move Hands | Create Wind |
 
 ---
+
 
 # 📂 Project Structure
 
@@ -198,3 +202,4 @@ If you enjoyed this project,
 Made with ❤️ by **Muhammad Faizan**
 
 </div>
+
